@@ -13,7 +13,7 @@ This repository functions as a navigation hub. To use a particular method,
 1. Navigate to the associated GitHub repository.
 2. Refer to the corresponding paper for theoretical details and experiments.
 
-## 📦 Multi-source Unsupervised Domain Adaptation
+## 🟥 Multi-source Unsupervised Domain Adaptation
 
 A **tutorial** website is available at:
 👉 https://cgdro.netlify.app/
